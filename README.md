@@ -1,5 +1,5 @@
-# Olá, Mundo!
+# Olá, pessoal!
 Meu primeiro repositório versionado.
-Repositório feito para treinar o conceitos de GIT e GITHUB.
+Repositório feito para treinar o conceitos de GIT e GITHUB, além de meus contatos para acionamentos.
 
-Essa alteração foi feita direto pelo site do GITHUB. Que impressionante!
+Em que posso te ajudar? (;
