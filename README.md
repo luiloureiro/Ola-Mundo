@@ -1,5 +1,5 @@
 # Olá, pessoal!
-Meu primeiro repositório versionado.
-Repositório feito para treinar os conceitos de GIT e GITHUB, além de meus contatos para acionamentos.
+Meu primeiro repositório versionado e disponibilizado no Git Hub.
+Repositório contendo uma página pessoal (index.html) para eu me apresentar.
 
 Em que posso te ajudar? (;
